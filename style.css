@@ -11,12 +11,12 @@ body{
 
 .logo{
   font-family: monospace;
-  margin-left: 3rem;
+  margin-left: 5rem;
   color: #fff;
 }
 
 .btn{
-  margin-right: 3rem;
+  margin-right: 5rem;
   float: right;
   background-color: #4caf50;
   border-radius: 10px;
@@ -54,17 +54,17 @@ body{
 textarea{
   padding: 5px;
   margin-left: 3px;
-  width: 31%;
-  height: 19rem;
+  width: 32%;
+  height: 15rem;
   font-family: courier,monospace;
   font-size: 12px;
   background-color: #616161;
   color: #fff;
-  border-top: 30px solid #424242;
+  border-top: 35px solid #424242;
 }
 iframe{
   width: 99%;
-  height: 10.5rem;
+  height: 15rem;
   resize: vertical;
   overflow: hidden;
   background-color: #eeeeee;
