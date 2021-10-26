@@ -11,12 +11,12 @@ body{
 
 .logo{
   font-family: monospace;
-  margin-left: 5rem;
+  margin-left: 3rem;
   color: #fff;
 }
 
 .btn{
-  margin-right: 5rem;
+  margin-right: 3rem;
   float: right;
   background-color: #4caf50;
   border-radius: 10px;
@@ -38,17 +38,20 @@ body{
 }
 .text .first{
   position: relative;
-  left: 7rem;
+  left: 14rem;
+  bottom: 2.2rem;
   border: 1px solid #4caf50;
 }
 .text .second{
-  position: relative;
-  left: 23rem;
+  position: absolute;
+  left: 46rem;
+  bottom: 2.2rem;
   border: 1px solid #4caf50;
 }
 .text .third{
   position: relative;
-  left: 40rem;
+  left: 78rem;
+  bottom: 2.2rem;
   border: 1px solid #4caf50;
 }
 textarea{
@@ -60,11 +63,11 @@ textarea{
   font-size: 12px;
   background-color: #616161;
   color: #fff;
-  border-top: 35px solid #424242;
+  border-top: 30px solid #424242;
 }
 iframe{
   width: 99%;
-  height: 20rem;
+  height: 24rem;
   resize: vertical;
   overflow: hidden;
   background-color: #eeeeee;
